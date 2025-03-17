@@ -1,1 +1,4 @@
-.env
+*.pdf
+*.json
+*.csv
+*.env
